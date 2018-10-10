@@ -1,2 +1,2 @@
 # webAssistant
-Web Assistant - Tracking webpages/topics that you find interesting.
+Web Assistant - Keeping track of static webpages
